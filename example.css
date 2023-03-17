@@ -1,3 +1,14 @@
 button.mat-focus-indicator.button.get-tickets-button.mat-raised-button.mat-button-base.ng-star-inserted {
     display:none;
 }
+
+
+button.mat-focus-indicator.done-btn.mat-flat-button.mat-button-base.mat-primary {
+    font-size: xx-large;
+
+}
+
+a.mat-focus-indicator.action-button.done-button.mat-stroked-button.mat-button-base.ng-star-inserted {
+    font-size:xx-large;
+    background-color: #4CAF50;
+}
