@@ -14,5 +14,4 @@ a.mat-focus-indicator.action-button.done-button.mat-stroked-button.mat-button-ba
 }
 
 
-mat-form-field.mat-form-field.ng-tns-c71-3.mat-primary.mat-form-field-type-mat-input.mat-form-field-appearance-outline.mat-form-field-can-float.ng-pristine.ng-valid.ng-touched {
-display:none;}
+.mat-form-field-flex.ng-tns-c71-3 {display:none;}
