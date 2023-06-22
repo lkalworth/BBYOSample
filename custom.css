@@ -2,6 +2,6 @@ button.mat-focus-indicator.button.get-tickets-button.mat-raised-button.mat-butto
     display: none;
 }
 
-span.ng-star-inserted {
-    display: none;
+button.mat-focus-indicator.action-button.get-tickets-button.mat-raised-button.mat-button-base.ng-star-inserted {
+    display:none;
 }
