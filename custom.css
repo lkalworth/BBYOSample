@@ -5,3 +5,7 @@ button.mat-focus-indicator.button.get-tickets-button.mat-raised-button.mat-butto
 button.mat-focus-indicator.action-button.get-tickets-button.mat-raised-button.mat-button-base.ng-star-inserted {
     display:none;
 }
+
+.event-keyword.ng-star-inserted {
+    color: green;
+}
