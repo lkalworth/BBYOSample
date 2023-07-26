@@ -1,11 +1,19 @@
+/* hide register button */
 button.mat-focus-indicator.button.get-tickets-button.mat-raised-button.mat-button-base.ng-star-inserted {
     display: none;
 }
 
+/* hide register button */
 button.mat-focus-indicator.action-button.get-tickets-button.mat-raised-button.mat-button-base.ng-star-inserted {
     display:none;
 }
 
+/* change color of calendar day icon */
 .event-keyword.ng-star-inserted {
     color: green;
+}
+
+/* Hide closed icon on event page */
+.floating-label.desktop.ng-star-inserted {
+    display: none;
 }
