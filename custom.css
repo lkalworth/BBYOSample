@@ -17,3 +17,15 @@ button.mat-focus-indicator.action-button.get-tickets-button.mat-raised-button.ma
 .floating-label.desktop.ng-star-inserted {
     display: none;
 }
+
+h1.ng-star-inserted {
+    font-size: larger;
+}
+
+span.ng-star-inserted {
+    display: none;
+}
+
+.product-item__price.ng-star-inserted {
+    display: none;
+}
