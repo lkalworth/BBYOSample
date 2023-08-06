@@ -23,13 +23,13 @@ h1.ng-star-inserted {
     font-size: larger;
 }
 
-/* Hide price on event page
+/* Hide price on event page */
 span.ng-star-inserted {
     display: none;
 }
 
-
+/* Hide price on calendar page */
 .product-item__price.ng-star-inserted {
     display: none;
 }
-*/
+
