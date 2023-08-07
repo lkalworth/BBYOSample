@@ -28,8 +28,5 @@ span.ng-star-inserted {
     display: none;
 }
 
-/* Hide price on calendar page */
-.product-item__price.ng-star-inserted {
-    display: none;
-}
+
 
