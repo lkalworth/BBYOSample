@@ -10,7 +10,7 @@ button.mat-focus-indicator.action-button.get-tickets-button.mat-raised-button.ma
 
 /* change color of calendar day icon */
 .event-keyword.ng-star-inserted {
-    color: green;
+    color: #25e4de;
 }
 
 /* Hide closed icon on event page */
@@ -28,10 +28,17 @@ h1.ng-star-inserted {
     display: none;
 }
 
-/* Hide price on event page
-span.ng-star-inserted {
-    display: none;
-}
 
-*/
+
+/* change color of calendar day icon on calendar list view */
+.bt-date-badge__month {
+   background-color: #25e4de !important;
+   color: #1F2937 !important;
+}
+ 
+
+/* change color of price background on calendar list view */
+.product-item__price {
+   background-color: #5BA55E  !important;
+}
 
