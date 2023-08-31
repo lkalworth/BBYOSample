@@ -35,10 +35,11 @@ h1.ng-star-inserted {
    background-color: #25e4de !important;
    color: #1F2937 !important;
 }
- 
 
-/* change color of price background on calendar list view */
+ 
+/* hide and change color of price background on calendar list view */
 .product-item__price {
-   background-color: #5BA55E  !important;
+   /* background-color: #5BA55E  !important; */
+   display: none !important;
 }
 
