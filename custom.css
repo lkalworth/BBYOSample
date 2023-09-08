@@ -50,7 +50,8 @@ img.hero-image.ng-star-inserted {
 
 /* apply neon pistachio to seltzer gradient */
 .section-wrapper.hero-wrapper {
-	background: linear-gradient(to bottom, #80e83a, #25e4de) !important;
+	/* background: linear-gradient(to bottom, #80e83a, #25e4de) !important; */
+	background: linear-gradient(to bottom, #1a03b5, #ed000a !important;
 }
 
 /* hide register button */
