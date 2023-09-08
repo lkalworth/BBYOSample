@@ -28,8 +28,6 @@ h1.ng-star-inserted {
     display: none;
 }
 
-
-
 /* change color of calendar day icon on calendar list view */
 .bt-date-badge__month {
    background-color: #25e4de !important;
@@ -66,11 +64,11 @@ section.section-wrapper.event-register-wrapper.ng-star-inserted {
 }
 
 /* change headline font size */
-.header-wrapper.section-content.headline {
+.headline {
 	font-size: 2rem;
 }
 
 /* change date font size */
-.header-wrapper.section-content.event_date {
+.event_date {
 	font-size: 1.25rem;
 }
