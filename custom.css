@@ -64,7 +64,7 @@ section.section-wrapper.event-register-wrapper.ng-star-inserted {
 }
 
 /* change headline font size */
-.headline.bt-rich-text.content {
+h1 .content {
 	font-size: 2rem !important;
 }
 
