@@ -64,12 +64,12 @@ section.section-wrapper.event-register-wrapper.ng-star-inserted {
 }
 
 /* change headline font size */
-h1.headline.content {
+h1.headline {
 	font-size: 2rem !important;
 }
 
 /* change date font size */
-.event_date {
-	font-size: 1.25rem;
+.event-date.ng-star-inserted {
+	font-size: 1.25rem !important;
 }
 
