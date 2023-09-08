@@ -64,7 +64,7 @@ section.section-wrapper.event-register-wrapper.ng-star-inserted {
 }
 
 /* change headline font size */
-.headline {
+h1.headline.content {
 	font-size: 2rem;
 }
 
@@ -72,3 +72,4 @@ section.section-wrapper.event-register-wrapper.ng-star-inserted {
 .event_date {
 	font-size: 1.25rem;
 }
+
