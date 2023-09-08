@@ -73,3 +73,7 @@ section.section-wrapper.event-register-wrapper.ng-star-inserted {
 	font-size: 1.25rem !important;
 }
 
+/* hide event location on first page */
+.event-location-wrapper.ng-star-inserted {
+	display: none !important;
+}
