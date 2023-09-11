@@ -8,6 +8,11 @@ button.mat-focus-indicator.action-button.get-tickets-button.mat-raised-button.ma
     display:none;
 }
 
+/* hide get tickets button on desktop and mobile */
+.get-tickets-button, .mobile-registration-action-container.ng-star-inserted {
+ display: none !important;
+}
+
 /* change color of calendar day icon */
 .event-keyword.ng-star-inserted {
     color: #25e4de;
