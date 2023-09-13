@@ -90,8 +90,8 @@ h1 .content {
 
 /* update discount code apply button style */
 .apply-button {
-    font-size: 1.125rem;
-    margin-top: 1rem;
+    font-size: 1rem !important;
+    margin-top: 1rem !important;
     text-transform: capitalize;
     background-color: var(--primaryColorOriginal) !important;
     color: var(--primaryColorContrast) !important;
