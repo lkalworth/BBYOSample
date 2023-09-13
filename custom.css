@@ -87,3 +87,12 @@ h1 .content {
 .event-location-wrapper.ng-star-inserted {
 	display: none !important;
 }
+
+/* update discount code apply button style */
+.apply-button {
+    font-size: 1.125rem;
+    margin-top: 1rem;
+    text-transform: capitalize;
+    background-color: var(--primaryColorOriginal);
+    color: var(--primaryColorContrast);
+}
