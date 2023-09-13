@@ -74,7 +74,7 @@ h1 .content {
 }
 
 /* change date font size */
-.event-date.ng-star-inserted {
+.event-date.ng-star-inserted .event-time.ng-start-inserted {
 	font-size: 1.25rem !important;
 }
 
