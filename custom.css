@@ -93,6 +93,6 @@ h1 .content {
     font-size: 1.125rem;
     margin-top: 1rem;
     text-transform: capitalize;
-    background-color: var(--primaryColorOriginal);
-    color: var(--primaryColorContrast);
+    background-color: var(--primaryColorOriginal) !important;
+    color: var(--primaryColorContrast) !important;
 }
