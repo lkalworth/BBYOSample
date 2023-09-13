@@ -74,9 +74,14 @@ h1 .content {
 }
 
 /* change date font size */
-.event-date.ng-star-inserted .event-time.ng-start-inserted {
+.event-date.ng-star-inserted {
 	font-size: 1.25rem !important;
 }
+
+.event-time.ng-start-inserted {
+	font-size: 1.25rem !important;
+}
+
 
 /* hide event location on first page */
 .event-location-wrapper.ng-star-inserted {
