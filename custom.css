@@ -130,6 +130,9 @@ h1 .content {
 	display: none !important;
 }
 .product-item__eventDetails {
+	max-width: 100% !important;
 	box-sizing: unset !important;
 }
+.product-item__date {
+	display: inline-flex !important;
 }
