@@ -122,3 +122,8 @@ h1 .content {
     background-color: var(--primaryColorOriginal) !important;
     color: var(--primaryColorContrast) !important;
 }
+
+/* change min-height for full-width hero */
+.section-wrapper[_ngcontent-biu-c221]:not(.event-register-wrapper) {
+    min-height: 0 !important;
+}
