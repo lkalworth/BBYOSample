@@ -1,3 +1,9 @@
+/* hide back button*/
+button.mat-focus-indicator.back-button.mat-icon-button.mat-button-base.ng-star-inserted{
+	display:none;
+}
+
+
 /* change color of calendar day icon */
 .event-keyword.ng-star-inserted {
     color: #25e4de;
