@@ -1,3 +1,8 @@
+/* hide back button*/
+button.mat-focus-indicator.back-button.mat-icon-button.mat-button-base.ng-star-inserted{
+	display:none;
+}
+
 /* hide register button */
 button.mat-focus-indicator.button.get-tickets-button.mat-raised-button.mat-button-base.ng-star-inserted {
     display: none;
